@@ -22,7 +22,7 @@ function ageChecker(age) {
   } else if (age >= 12) {
     return "You are a kid"
 
-  }  if( age >= 19) {
+  } else( age >= 19) {
     return "You are a grownup"
 
   }
