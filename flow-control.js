@@ -1,7 +1,11 @@
-function basicTeenager(age) { if (13 && 19) return "You are a teenager!"
-
+function basicTeenager(age) { 
+  if ( age >= 13 && age <= 19) {
+    return "You are a teenager!"
+  }
 }
-
+// if (hour < 18) {
+//   greeting = "Good day";
+// }
 function teenager(age) {
 
 }
